@@ -8,3 +8,4 @@ var A = A.fontcolor("red");//This is chagning ther font color to red
 document.write(A+B);
 
 window.alert(3+3)//A window alert for an expression
+
