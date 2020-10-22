@@ -1,6 +1,6 @@
 function Ride_Function() {//A ternary operation function
     var Age, Can_Ride;
-    Age = document.getElementById("Height").nodeValue;
+    Age = document.getElementById("Height").value;
     Can_ride = (Age < 18) ? "You are too young":"You are old enough";
     document.getElementById("Ride").innerHTML = Can_ride + " to vote.";
 }
