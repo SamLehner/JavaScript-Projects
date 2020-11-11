@@ -155,7 +155,7 @@ function drawWinLine(coordX1, coordY1, coordX2, coordY2) {
     //This line indicates where the start of a lines x axis is.
     let x1 = coordX1,
         //This line indicates where the start of a lines y axis is.
-        y1 = coordX1,
+        y1 = coordY1,
         //This line indicates where the end of a lines x axis is.
         x2 = coordX2,
         //This line indicates where the end of a lines x axis is.
